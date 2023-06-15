@@ -24,7 +24,8 @@ Roots is a project that utilizes Mask R-CNN for instance segmentation of plant r
 
     ```shell
     git clone https://github.com/navidali/Roots.git
-    cd roots
+    cd DyanmicMLTechnique
+    cd root
     ```
 
 2. Install the required dependencies:
