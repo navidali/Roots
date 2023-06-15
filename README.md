@@ -33,7 +33,7 @@ Roots is a project that utilizes Mask R-CNN for instance segmentation of plant r
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained Mask R-CNN model weights ([COCO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjm4KT3_MP_AhU9fjABHQ6yAO4QFnoECAsQAQ&url=https%3A%2F%2Fgithub.com%2Fmatterport%2FMask_RCNN%2Freleases%2Fdownload%2Fv2.0%2Fmask_rcnn_coco.h5&usg=AOvVaw0nAUAmHpcXDQ6mPgV9NckR)) and place them in the `models/` directory.
+3. Download the pre-trained Mask R-CNN model weights ([COCO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjm4KT3_MP_AhU9fjABHQ6yAO4QFnoECAsQAQ&url=https%3A%2F%2Fgithub.com%2Fmatterport%2FMask_RCNN%2Freleases%2Fdownload%2Fv2.0%2Fmask_rcnn_coco.h5&usg=AOvVaw0nAUAmHpcXDQ6mPgV9NckR)) and place them in the directory.
 
 ## Usage
 
